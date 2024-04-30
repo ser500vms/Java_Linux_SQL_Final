@@ -1,0 +1,54 @@
+    1  cat > pets.txt
+
+    2  cat > packAnimals.txt
+
+    3  cat pets.txt packAnimals.txt > humanFriends.txt
+
+    4  cat humanFriends.txt 
+
+    5  ls
+
+    6  mkdir animals
+
+    7  mv humanFriends.txt animals/
+
+    8  cd animals/
+
+    9  ls
+
+   10  history
+
+   11  clear
+
+   12  apt update
+
+   13  apt install mysql-server
+
+   14  mysql --version
+
+   15  cd..
+
+   16  dpkg --get-selections
+
+   17  ls
+
+   18  cd..
+
+   19  cd ..
+
+   20  ls
+
+   21  cd Downloads/
+
+   22  ls
+
+   23  dpkg -i vivaldi-stable_6.6.3271.61-1_amd64.deb 
+
+   24  dpkg --get-selections
+
+   25  dpkg -P vivaldi-stable
+
+   26  dpkg --get-selections
+
+   27  history
+
